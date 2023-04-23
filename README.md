@@ -1,1 +1,1 @@
-# AlgoCourse_DS12-Algo-10-
+# AlgoCourse_DS12-Algo-10
